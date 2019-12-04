@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Ethical Engine - Representation
 exclude: true
 ---
