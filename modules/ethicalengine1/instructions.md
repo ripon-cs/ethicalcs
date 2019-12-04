@@ -55,4 +55,4 @@ class Person:
       self.charType = random.choice(self.CHAR_TYPES)
 ```
 
-Once you feel comfortable with your code, feel free to move onto [part 2](../stories).
+Once you feel comfortable with your code, feel free to move onto [part 2](stories).
