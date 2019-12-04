@@ -5,7 +5,7 @@ exclude: true
 ![university](img/people.jpg)
 
 ## From Teluta to Facebook
-In part 1 of your work, we situated you as a worker of a hypothetical company called _Teluta_. But real-world companies constantly collect and represent our personal characteristics - at times, with terrible consequences. Read the stories below about instances about real companies...
+In [part 1](instructions) of your work, we situated you as a worker of a hypothetical company called _Teluta_. But real-world companies constantly collect and represent our personal characteristics - at times, with terrible consequences. Read the stories below about instances about real companies...
 
 _What are the potential consequences of including characteristics in code?_
 - [Facebook Lets Advertisers Exclude Users by Race](https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race)
