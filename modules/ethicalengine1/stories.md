@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Person Model - Stories
 exclude: true
 ---
