@@ -8,6 +8,7 @@ exclude: true
 In [part 1](instructions) of your work, we situated you as a worker of a hypothetical company called _Teluta_. But real-world companies constantly collect and represent our personal characteristics - at times, with terrible consequences. Read the stories below about instances about real companies...
 
 _What are the potential consequences of including characteristics in code?_
+- [Self-Driving Uber Crash Kills Pedestrian Because She Was Jaywalking](https://www.washingtonpost.com/local/trafficandcommuting/pedestrian-in-self-driving-uber-collision-probably-would-have-lived-if-braking-feature-hadnt-been-shut-off-ntsb-finds/2019/11/05/7ec83b9c-ffeb-11e9-9518-1e76abc088b6_story.html)
 - [Facebook Lets Advertisers Exclude Users by Race](https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race)
 - [Dozens of Companies are Using Facebook to Exclude Older Workers from Job Ads](https://www.propublica.org/article/facebook-ads-age-discrimination-targeting)
 
