@@ -33,7 +33,7 @@ Compare your list with a classmate. What similarities did you have? What differe
 
 Now that you've run through the scenarios a few times, let's take a look at some code. We're going to practice object-oriented programming design and construct a `Person` class
 
-(_NOTE: our `Person` can actually be an animal too. This representation is best done through inheritance relationships, but at this point, we've constructed this assignment to fit very early exposure to OOP. Feel free to modify to fit your own circumstances!_)
+(_NOTE: our `Person` can actually be an animal too._)
 
 Your code will accomplish two different goals:  
 1. It will articulate all your characteristics as attributes of the `Person` classmate
