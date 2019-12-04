@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Teluta's Person Model
 exclude: true
 ---
