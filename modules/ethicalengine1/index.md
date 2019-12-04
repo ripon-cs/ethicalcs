@@ -15,8 +15,8 @@ _Teluta_ - an autonomous vehicle company - has made extraordinary strides in sel
 
 ## Assignment
 
-- [Part 1: Instructions](instructions.md)
-- [Part 2: Stories](stories.md)
+- [Part 1: Instructions](instructions)
+- [Part 2: Stories](stories)
 
 ## Supplemental Reading
 - [Facebook Lets Advertisers Exclude Users by Race](https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race)
