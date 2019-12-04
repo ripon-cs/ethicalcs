@@ -4,7 +4,7 @@ exclude: true
 ---
 ![university](img/people.jpg)
 
-## From Teluta to Facebook
+## From Teluta to the Real World
 In [part 1](instructions) of your work, we situated you as a worker of a hypothetical company called _Teluta_. But real-world companies constantly collect and represent our personal characteristics - at times, with terrible consequences. Read the stories below about instances about real companies...
 
 _What are the potential consequences of including characteristics in code?_
