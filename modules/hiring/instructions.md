@@ -18,7 +18,7 @@ It's difficult to create these first-pass cuts, so _Moogle_ designs their applic
 - **Software Engineering:** 80
 - **Algorithms:** 89
 - **Computer Organization:** 91
-- **Operative Systems:** 75
+- **Operating Systems:** 75
 - **Overall GPA:** 83
 
 ... would result in the following list: `[100, 95, 80, 89, 91, 75, 83]`. You can assume that index `0` is _always_ Intro to CS, `1` is _always_ Data Structures, and so on.
