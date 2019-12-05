@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Ethical Hiring Algorithms
 exclude: true
 ---
