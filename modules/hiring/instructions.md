@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Moogle's Hiring Algorithm
 exclude: true
 ---
