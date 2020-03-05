@@ -95,4 +95,4 @@ def get_street_num():
 - Next, create new fields (such as name, email, and phone number) and new functions to validate those fields.
   - Hint: You may find some `string` methods very useful (such as `isdigit()` used in the example to check if the string is a number). [Check out the documentation for a full list.](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
-- [Once you are satisfied, move onto the next part of this assignment...](stories)
+- Once you are satisfied, move onto [the next part of this assignment...](stories)
