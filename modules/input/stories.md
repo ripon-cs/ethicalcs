@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Harwall University Forms - Stories
 exclude: true
 ---
