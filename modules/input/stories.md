@@ -1,5 +1,5 @@
 ---
-title: Harwall University Forms - Stories
+title: Tipon College Forms - Stories
 exclude: true
 ---
 ![university](img/university.jpg)
