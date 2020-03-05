@@ -94,4 +94,4 @@ def get_street_num():
 
 - Next, create new fields (such as name, email, and phone number) and new functions to validate those fields.
 
-- Once you are satisfied, move onto the next part of this assignment...
+- [Once you are satisfied, move onto the next part of this assignment...](stories)
