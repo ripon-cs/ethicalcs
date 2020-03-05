@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Ethical Input Validation
 exclude: true
 ---
