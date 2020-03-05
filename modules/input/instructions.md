@@ -92,6 +92,6 @@ def get_street_num():
 
 - First, completely the partially finished `get_age()` function. Provide suitable checks that someone has entered a reasonable age (for example, no one should be 800 years old).
 
-- Next, create new fields (such as email and phone number) and new functions to validate those fields.
+- Next, create new fields (such as name, email, and phone number) and new functions to validate those fields.
 
 - Once you are satisfied, move onto the next part of this assignment...
