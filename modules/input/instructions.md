@@ -1,28 +1,28 @@
 ---
-title: Harwall University's Forms
+title: Tipon College's Forms
 exclude: true
 ---
 
 ![university](img/university.jpg)
 
-You are working for the prestigious Harwall university to meet the joint needs of _Admissions_, _Alumni Relations_, and _Communications_. People are constantly visiting campus - to see someone they know, to check out the school as a prospective, to give a talk, to interview, to come back to the school (alumni!), or for a variety of reasons.
+You are working for the prestigious Tipon College to meet the joint needs of _Admissions_, _Alumni Relations_, and _Communications_. People are constantly visiting campus - to see someone they know, to check out the school as a prospective student, to give a talk, to interview, to come back to the school (alumni!), or for a variety of reasons.
 
-It would be valuable to know who is on a campus throughout the year, so you are asked to write a standard form that Harwall can give visitors to collect their information. Harwall intends to use the information from this form later on to communicate with potential donors or reach out to prospective students.
+It would be valuable to know who is on a campus throughout the year, so you are asked to write a standard form that Tipon can give visitors to collect their information. Tipon intends to use the information from this form later on to communicate with potential donors or reach out to prospective students.
 
-Since Harwall wants to make sure that this data is useful, they have also asked you to validate whatever information is entered into the form. That is your job.
+Since Tipon wants to make sure that this data is useful, they have also asked you to validate whatever information is entered into the form. That is your job.
 
 
 ### The Visitors
 Here are a couple of examples of people who may be visiting campus:
 
 **Vignette 1:**
-> Beverly (52) and Robert (55) Deason are bringing their daughter Mary (17) for a college visit. Mary is a junior in high school, and is thinking about Harwall because of the Engineering College. Coming from Cambridge, MA, the family is traveling across a number of colleges in Pennsylvania. Mary says that you can email her at mlp231@mac.com or text her at (617) 431-5817.
+> Beverly (52) and Robert (55) Deason are bringing their daughter Mary (17) for a college visit. Mary is a junior in high school, and is thinking about going to Tipon. Coming from Milwaukee, WI, the family is traveling across a number of colleges in the Midwest. Mary says that you can email her at mlp231@mac.com or text her at (414) 431-5817.
 
 **Vignette 2:**
-> Terrell Hughes is on campus to interview for the tenure-track Computer Science faculty position. He is currently a visiting scholar at Cornell University in Ithaca, NY, having been there since he got his Ph.D. from NYU a year ago. You have his business card, which lists his contact information as thughes14211@cornell.edu and 607 151 4561. Terrel laughed when you asked for his age, and just said to put down 30.
+> Terrell Hughes is on campus to interview for the tenure-track Computer Science faculty position. He is currently a visiting scholar at Cornell University in Ithaca, NY, having been there since he got his Ph.D. from NYU a year ago. You have his business card, which lists his contact information as thughes14211@cornell.edu and (607) 151-4561. Terrel laughed when you asked for his age, and just said to put down 30.
 
 **Vignette 3:**
-> Rolf Feierabend has lived in Mifflinburg, PA since 1961, when his parents immigrated to the US, bringing then-seventeen Rolf in tow. He has been retired for a couple of years now, and takes his husky lab Winston on walks through campus on occasion. Although he has an email account feierabend411@aol.com he doesn’t really check it anymore. He says to just call him at 570-511-5161
+> Rolf Feierabend has lived in Tipon, WI since 1961, when his parents immigrated to the US, bringing then-seventeen Rolf in tow. He has been retired for a couple of years now, and takes his husky lab Winston on walks through campus on occasion. Although he has an email account feierabend411@aol.com he doesn’t really check it anymore. He says to just call him at (920) 511-5161.
 
 Answer the following questions:
 - Which information should we collect from each visitor?
@@ -92,6 +92,6 @@ def get_street_num():
 
 - First, completely the partially finished `get_age()` function. Provide suitable checks that someone has entered a reasonable age (for example, no one should be 800 years old).
 
-- Next, create new fields and new functions to validate those fields.
+- Next, create new fields (such as email and phone number) and new functions to validate those fields.
 
 - Once you are satisfied, move onto the next part of this assignment...
